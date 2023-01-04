@@ -21,7 +21,7 @@
     "jsonapi-vuex": "^1.2.1"
   },
   "devDependencies": {
-    "@quasar/app": "^1.0.0",
+    "@quasar/app": "^3.3.3",
     "@quasar/quasar-app-extension-qenv": "^1.0.0-beta.1",
     "@vue/eslint-config-prettier": "^4.0.0",
     "babel-eslint": "^10.0.1",
